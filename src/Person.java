@@ -1,3 +1,7 @@
+//	********************
+//	*** Person CLASS ***
+//	********************
+
 import java.util.ArrayList;
 
 public class Person {
@@ -20,3 +24,4 @@ public class Person {
 	//ArrayList<String> skillLvl 	= new ArrayList<String>(maxSkills);
 	
 }
+//	***********************
