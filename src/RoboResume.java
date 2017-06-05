@@ -119,7 +119,7 @@ public class RoboResume {
 					duties4Print += "\n" + item;
 				}
 								
-				fPerson.wrkXp.add(fWrkXp + ", \n" + fWrkXpOrg + ", " + fWrkXpYrs + duties4Print);				
+				fPerson.wrkXp.add(fWrkXp + ", \n" + fWrkXpOrg + ", " + fWrkXpYrs + "\n" + duties4Print);				
 
 				
 				if (fPerson.wrkXp.size() == 0) {println(" ");}
